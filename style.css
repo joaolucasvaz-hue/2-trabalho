@@ -25,4 +25,8 @@ h1 {
 article{
      background-color: antiquewhite;
      border-radius: 12px;
+     padding-left:  20px; /* espaçamento na esquerda */
+     padding-right:  30px; /* espaçamento na direita*/
+     padding-top: 30px;
+     padding-bottom: 40px;
 }
